@@ -1,0 +1,87 @@
+.titulo-1 {
+    color: green;
+}
+
+.parrafo-1 {
+    color: fuchsia;
+    background-color: black;
+}
+
+.titulo-2 {
+    color: red;
+    background-color: gold;
+}
+
+.parrafo-2 {
+    color: red;
+}
+
+.titulo-3 {
+    color: red;
+    font-size: 20px;
+}
+
+.titulo-4 {
+    color: red;
+}
+
+.parrafo-3 {
+    background-color: black;
+    color: darkgrey;
+}
+
+.parrafo-4 {
+    color: darkgray;
+}
+
+.table {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: red;
+    width: 32%;
+}
+
+.table-2 {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: gold;
+    width: 32%;
+    font-family: monospace;
+}
+
+.table-3 {
+    padding: 10px;
+    border: 2px solid black;
+    background-color: green;
+    width: 32%;
+    font-family: Calibri;
+}
+
+.usuario {
+    background-color: gray;
+    border: 1px;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.email {
+    background-color: gray;
+    border: 1px;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.contraseña {
+    background-color: gray;
+    border: 1px;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.envio {
+    color: aliceblue;
+    background-color: darkgreen;
+}
