@@ -1,0 +1,21 @@
+header {
+    margin: 20px;
+    padding: 10px;
+}
+
+main {
+    margin: 20px;
+    padding: 10px;
+}
+
+footer {
+    margin: 20px;
+    padding: 10px;
+    color: grey;
+    background-color: #CC2345;
+
+}
+
+nav {
+    color: blue;
+}
